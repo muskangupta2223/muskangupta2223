@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">"Engineering my future with code | DSA × Python × Full Stack| Building with purpose, learning without limits</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskangupta2223&label=Profile%20views&color=0e75b6&style=flat" alt="muskangupta2223" /> </p>
 
