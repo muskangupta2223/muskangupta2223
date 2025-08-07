@@ -1,3 +1,9 @@
+<p align="center" width=70%>
+  <a href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"><img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  title="Namaste" ref="https://www.instagram.com/surajagr_01/"></a>
+</p>
+
+
+
 <h1 align="center">Hi 👋, I'm Muskan</h1>
 <h3 align="center">"Engineering my future with code | DSA × Python × Full Stack| Building with purpose, learning without limits</h3>
 
@@ -19,4 +25,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskangupta2223&show_icons=true&locale=en&layout=compact" alt="muskangupta2223" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskangupta2223&show_icons=true&locale=en" alt="muskangupta2223" /></p>
+
+
+
+
+
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
